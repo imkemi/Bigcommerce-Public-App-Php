@@ -13,9 +13,9 @@ Requirements for this connection
 
 **To connect to the API with OAuth you will need the following:**
 
-- client_id
-- auth_token
-- store_hash
+- Client_id
+- Auth_token
+- Store_hash
 
 Installation
 ------------
